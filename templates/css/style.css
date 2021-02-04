@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    border: 3px solid red;
+    width: calc(100%-6px);
+    height: 100px;
+}
+
+.navigation a{
+    margin-left: 120px;
+}
+
+.navigation li{
+    font-size: 20px;
+}
+
+.main{
+    border: 3px solid blue;
+    width: calc(100%-6px);
+}
+
+.index h1{
+    text-align: center;
+}
+
+.description{
+    font-size: 18px;
+}
+
+/*.footer{
+    border: 3px solid red;
+    width: calc(100%-6px);
+    height: 70px;
+}*/

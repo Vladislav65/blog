@@ -1,0 +1,19 @@
+/*.item{
+    border: 3px solid blue;
+}*/
+
+.article{
+    border: 3px solid red;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: inline-flex;
+}
+
+.article_img{
+    width: 350px;
+    height: 270px;
+}
+
+.article_content{
+    margin-left: 15px;
+}

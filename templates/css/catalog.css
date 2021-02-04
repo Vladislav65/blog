@@ -1,0 +1,48 @@
+h3{
+    /*text-align: center;*/
+}
+
+.news{
+    /*border: 3px solid green;*/
+    justify-content: center;
+}
+
+.sort{
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.item{
+    border: 3px solid blue;
+    width: 560px;
+    height: 280px;
+    display: inline-flex;
+}
+
+.item_img{
+    width: 200px;
+    height: 180px;
+    margin: 0;
+}
+
+.item_title{
+    margin-left: 50px;
+    font-size: 25px;
+}
+
+.preview, a{
+    margin-left: 20px;
+    padding-top: 0;
+}
+
+.auth_warning{
+    font-size: 17px;
+    color: firebrick;
+}
+
+.date, .views{
+    font-size: 17px;
+    color: firebrick;
+}
+

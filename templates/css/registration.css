@@ -1,0 +1,26 @@
+.reg_class{
+    /*border: 3px solid red;*/
+    text-align: center;
+    margin-top: 100px;
+}
+
+.reg_form label{
+    font-size: 18px;
+    color: firebrick;
+}
+
+.reg_form input{
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-bottom: 2px solid black;
+}
+
+.reg_btn{
+    margin-top: 15px;
+}
+
+.incorrect{
+    font-size: 18px;
+    color: firebrick;
+}

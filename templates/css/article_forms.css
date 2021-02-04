@@ -1,0 +1,20 @@
+h3{
+    text-align: center;
+}
+
+.add_article, .edit_article{
+    justify-content: center;
+}
+
+.add_form, .edit_form{
+    margin-left: 300px;
+}
+
+.add_content, .edit_content{
+    resize: none;
+}
+
+.add_btn, .edit_btn{
+    margin-bottom: 30px;
+}
+
